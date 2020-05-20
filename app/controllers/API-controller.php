@@ -5,7 +5,7 @@
 	use Curl;
 
 	class API{
-		private $url = "https://api.jobtify.com.mx/v1/";
+		private $url = "http://sandbox.api.jobtify.com.mx/v1/";
 		private $API;
 		private $KEY;
 		public $TOKEN;
