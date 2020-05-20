@@ -12,6 +12,8 @@
 	define('ROOT_PATH', $_SERVER['DOCUMENT_ROOT'].'/');
 	define('__DR__', ROOT_PATH.'jobtify-custom-package/');
 	define('__PATH__', 'http://'.$_SERVER['SERVER_NAME'].'/jobtify-custom-package'); 
+        define('_TOKEN_', 'cd1fac90feef9ba749fe67bd27777773489b33');
+        define('_KEY_', 'TEST1234567');
 
 	/**
 	 * Define el nombre de la empresa
